@@ -1,0 +1,9 @@
+version: 1.0
+name: FirstPlugin
+main: com.yehia.plugin.Main
+author: Yehia
+description: First plugin me n o nub
+commands: 
+  heal:
+  time:
+  
